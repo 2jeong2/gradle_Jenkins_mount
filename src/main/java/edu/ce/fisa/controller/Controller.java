@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("app")
+@RequestMapping("app4")
 public class Controller {
 	//http://localhost:8080/app/get
 	@GetMapping("/get")
